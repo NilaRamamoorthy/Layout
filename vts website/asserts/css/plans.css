@@ -157,10 +157,10 @@
     background-color: #16B653;
 }
 
-.end-horizontal-line {
+/* .end-horizontal-line {
     position: absolute;
     top: 93.3%;
-    /* top: 96.5%; */
+ 
     left: 94%;
     transform: rotate(90deg);
     transform-origin: top left;
@@ -172,14 +172,14 @@
 .center-horizontal-line {
     position: absolute;
     top: 49.3%;
-    /* top: 52%; */
+    
     left: 94%;
     transform: rotate(90deg);
     transform-origin: top left;
     height: 53%;
     width: 2px;
     background-color: #16B653;
-}
+} */
 
 .btn-back {
     background-color: #16B653;
